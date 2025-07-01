@@ -1,0 +1,10 @@
+```log
+2025-09-15 10:01:00 [INFO] User logged in successfully
+2025-09-15 10:02:15 [INFO] Data requested from /api/data
+2025-09-15 10:03:00 [WARNING] API response time exceeded 500ms
+2025-09-15 10:03:45 [INFO] User updated profile
+2025-09-15 10:05:00 [ERROR] Database connection failed: timeout
+2025-09-15 10:05:10 [INFO] Retrying database connection...
+2025-09-15 10:05:15 [INFO] Database connection successful
+2025-09-15 10:08:00 [ERROR] Payment processing failed for order 12345
+```
